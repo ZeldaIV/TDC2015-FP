@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BE06C251-FB3A-4802-9F53-C58F1EE838BE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TDC-FP</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8B123162C394A0A0A138779108E4C59DD771865A</key>
+		<string>https://github.com/ReactiveX/RxSwift.git</string>
+		<key>BA71E911DE7535EAF533B69E0F560EB2E98977B9</key>
+		<string>github.com:ZeldaIV/TDC-FP.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TDC-FP.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8B123162C394A0A0A138779108E4C59DD771865A</key>
+		<string>../../../GitHubProjects/RxSwift</string>
+		<key>BA71E911DE7535EAF533B69E0F560EB2E98977B9</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ZeldaIV/TDC-FP.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BA71E911DE7535EAF533B69E0F560EB2E98977B9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8B123162C394A0A0A138779108E4C59DD771865A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RxSwift</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BA71E911DE7535EAF533B69E0F560EB2E98977B9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TDC-FP</string>
+		</dict>
+	</array>
+</dict>
+</plist>

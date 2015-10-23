@@ -1,0 +1,35 @@
+PODS:
+  - Alamofire (2.0.2)
+  - Moya/Core (2.4.1):
+    - Alamofire (~> 2.0)
+  - Moya/ReactiveCore (2.4.1):
+    - Moya/Core
+  - Moya/RxSwift (2.4.1):
+    - Moya/ReactiveCore
+    - RxSwift (~> 2.0.0-alpha)
+  - RxBlocking (2.0.0-alpha.3):
+    - RxSwift (~> 2.0.0-alpha)
+  - RxCocoa (2.0.0-alpha.3):
+    - RxSwift (~> 2.0.0-alpha)
+  - RxSwift (2.0.0-alpha.3)
+  - SwiftWebSocket (2.1.1)
+  - SwiftyJSON (2.3.0)
+
+DEPENDENCIES:
+  - Moya/RxSwift (= 2.4.1)
+  - RxBlocking (= 2.0.0-alpha.3)
+  - RxCocoa (= 2.0.0-alpha.3)
+  - RxSwift (= 2.0.0-alpha.3)
+  - SwiftWebSocket (= 2.1.1)
+  - SwiftyJSON (~> 2.3)
+
+SPEC CHECKSUMS:
+  Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
+  Moya: aa0fba7f9c98a0bcb95f2d4222ee848dcb0e4b8e
+  RxBlocking: 0a4086da64fbbc916ac0251252d93f5f4f97ce5a
+  RxCocoa: 2a45f35cd0eb6a01e081b3d11849c2fcb0bdb6de
+  RxSwift: c66f7956b2e5fb397a62bf4a3ec6072749a816a7
+  SwiftWebSocket: 3038d0ec579ba506fd7c9a6dcf1aa7b09ce3ed3b
+  SwiftyJSON: 8d6b61a70277ef2a5d710d372e06e7e2d87fb9e4
+
+COCOAPODS: 0.38.2
