@@ -3,7 +3,7 @@
 //  TDC-FP
 //
 //  Created by Trond Bordewich on 04.10.2015.
-//  Copyright © 2015 Lingit AS. All rights reserved.
+//  Copyright © 2015 Trobe. All rights reserved.
 //
 
 import Foundation

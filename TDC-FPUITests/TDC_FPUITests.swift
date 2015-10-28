@@ -3,7 +3,7 @@
 //  TDC-FPUITests
 //
 //  Created by Trond Bordewich on 28.09.15.
-//  Copyright © 2015 Lingit AS. All rights reserved.
+//  Copyright © 2015 Trobe. All rights reserved.
 //
 
 import XCTest

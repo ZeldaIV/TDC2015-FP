@@ -564,7 +564,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "TDC-FP/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "no.lingit.TDC-FP";
+				PRODUCT_BUNDLE_IDENTIFIER = "no.trobe.TDC-FP";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -576,7 +576,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "TDC-FP/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "no.lingit.TDC-FP";
+				PRODUCT_BUNDLE_IDENTIFIER = "no.trobe.TDC-FP";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -587,7 +587,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = "TDC-FPTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "no.lingit.TDC-FPTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "no.trobe.TDC-FPTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TDC-FP.app/TDC-FP";
 			};
@@ -599,7 +599,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = "TDC-FPTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "no.lingit.TDC-FPTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "no.trobe.TDC-FPTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TDC-FP.app/TDC-FP";
 			};
@@ -610,7 +610,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = "TDC-FPUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "no.lingit.TDC-FPUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "no.trobe.TDC-FPUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = "TDC-FP";
 				USES_XCTRUNNER = YES;
@@ -622,7 +622,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = "TDC-FPUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "no.lingit.TDC-FPUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "no.trobe.TDC-FPUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = "TDC-FP";
 				USES_XCTRUNNER = YES;

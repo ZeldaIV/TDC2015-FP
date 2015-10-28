@@ -1,16 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BA71E911DE7535EAF533B69E0F560EB2E98977B9",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F1B4BFE2D34542982D804705CCDAE0FB8F64241A",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "BA71E911DE7535EAF533B69E0F560EB2E98977B9" : 0,
-    "8B123162C394A0A0A138779108E4C59DD771865A" : 0
+    "8B123162C394A0A0A138779108E4C59DD771865A" : 0,
+    "F1B4BFE2D34542982D804705CCDAE0FB8F64241A" : 0,
+    "BA71E911DE7535EAF533B69E0F560EB2E98977B9" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BE06C251-FB3A-4802-9F53-C58F1EE838BE",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "BA71E911DE7535EAF533B69E0F560EB2E98977B9" : "TDC-FP",
-    "8B123162C394A0A0A138779108E4C59DD771865A" : "..\/GitHubProjects\/RxSwift"
+    "8B123162C394A0A0A138779108E4C59DD771865A" : "..\/GitHubProjects\/RxSwift",
+    "F1B4BFE2D34542982D804705CCDAE0FB8F64241A" : "TDC2015-FP\/",
+    "BA71E911DE7535EAF533B69E0F560EB2E98977B9" : "TDC-FP"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "TDC-FP",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -25,6 +27,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ZeldaIV\/TDC-FP.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BA71E911DE7535EAF533B69E0F560EB2E98977B9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ZeldaIV\/TDC2015-FP.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F1B4BFE2D34542982D804705CCDAE0FB8F64241A"
     }
   ]
 }
